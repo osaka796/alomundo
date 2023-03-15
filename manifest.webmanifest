@@ -1,7 +1,7 @@
 {
     "name": "Olá Mundo",
     "short_name": "Olá",
-    "star_url": ".",
+    "start_url": ".",
     "display":"standalone",
     "theme_color":"#ffffff",
     "background_color":"#000000",
